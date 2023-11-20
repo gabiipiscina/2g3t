@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(170, 52, 107);
+}
+.entrada{
+    width: 48px;
+    background-color: rgb(145, 52, 91);
+    border: none;
+    border-bottom: 2px solid #4c94b6;
+    text-align: center;
+}
+.calc_simples{
+    background-color: rgb(63, 124, 160);
+    padding: 5px;
+    width: 200px;
+    border-radius: 5px;
+}
+.display_simples{
+    width: 100%;
+    text-align: center;
+}
+#resultado{
+    text-align: right;
+}
+.teclas{
+    text-align: center;
+}
+#igual{
+    background-color: rgb(255, 0, 212);
+    border-radius: 5px;
+}
+button{
+    width: 40px;
+    height: 40px;
+    margin-top: 3px;
+}
